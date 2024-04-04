@@ -15,5 +15,14 @@ int main()
         cout << "max is " << b << endl;
     }
 
+    if (a >= b)
+    {
+        cout << "min is " << a << endl;
+    }
+    else
+    {
+        cout << "max is " << b << endl;
+    }
+
     return 0;
 }
