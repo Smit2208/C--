@@ -5,6 +5,7 @@ int main()
 {
     int a = 5;
     int b = 7;
+    int c = 10;
     
     if (a <= b)
     {
@@ -72,10 +73,6 @@ int main()
     cout << "sum is " << sum1 << endl;
 
     /*for loop and writing 2 x 1 = 2, 2 x 2 = 2 ....*/
-    
-    int sum, x;
-    sum = 0;
-    x = 5;
     
     for (int i = 1; i <= 10; i++)
     {
