@@ -24,5 +24,14 @@ int main()
         cout << "max is " << b << endl;
     }
 
+    if ((a <= b) && (b <= c))
+    {
+        cout << "min is " << a << " and  " << b << endl;
+    }
+    else
+    {
+        cout << "max is " << c << endl;
+    }
+
     return 0;
 }
