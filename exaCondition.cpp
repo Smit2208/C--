@@ -85,5 +85,18 @@ int main()
 
     /*for loop with user input so I can write anyone 11eca(Gujarati) */
 
+    
+    int sum2, z;
+    sum2 = 0;
+    z = 0;
+    
+    cout << "Enter the value " << endl;
+    cin >> z;
+    
+    for (int i = 1; i <= 10; i++)
+    {
+        int mul = z * i;
+        cout << z << " x " << i << " = " << mul << endl;
+    }
     return 0;
 }
