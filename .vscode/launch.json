@@ -24,7 +24,7 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/smitp/OneDrive/Desktop/C++",
+      "cwd": "C:/MinGW/bin/gcc",
       "program": "c:/Users/smitp/OneDrive/Desktop/C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
