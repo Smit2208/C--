@@ -12,6 +12,7 @@ void printArray (int *array, int length)
      }
 
 
+
 int main()
 {
     int x = 10;
